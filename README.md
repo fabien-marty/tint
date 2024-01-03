@@ -1,5 +1,10 @@
 # `tint`: 🌈 **slog.Handler** that writes tinted logs
 
+> [!WARNING]
+> This is a fork of [https://github.com/lmittmann/tint](https://github.com/lmittmann/tint) for Go 1.19/1.20
+>
+> If you use Go >= 1.21, this project is useless!
+
 [![Go Reference](https://pkg.go.dev/badge/github.com/lmittmann/tint.svg)](https://pkg.go.dev/github.com/lmittmann/tint#section-documentation)
 [![Go Report Card](https://goreportcard.com/badge/github.com/lmittmann/tint)](https://goreportcard.com/report/github.com/lmittmann/tint)
 
